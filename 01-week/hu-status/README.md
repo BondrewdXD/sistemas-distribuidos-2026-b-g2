@@ -5,10 +5,10 @@
 # Weekly Status - Week 01
 
 <!-- CONFIG-START - must match your profile repo (username/username) CONFIG -->
-- FULL_NAME:
-- GITHUB_USER:
-- TEAM:
-- SPRINT_GOAL:
+- FULL_NAME: Jose Miguel Vera Garzón
+- GITHUB_USER: BondrewdXD
+- TEAM: Telemedicina
+- SPRINT_GOAL: Definir el problema, propuesta y fundamentos iniciales del sistema distribuido
 <!-- CONFIG-END -->
 
 ## 1. User stories worked this week
@@ -18,7 +18,7 @@
 
 ## 2. My individual contribution
 -
-
+S
 ## 3. Blockers and risks
 -
 
