@@ -12,11 +12,11 @@
 <!-- CONFIG-END -->
 
 ## 1. User stories worked this week
-| HU ID | Title | Status (todo/doing/done) | Evidence (PR or commit URL) |
+| HU ID | Title | Status (todo/doing/done) |
 |---|---|---|---|
-| MVP-001 | Setup of the base backend structure (hexagonal / layered architecture) | done | [Initial structure commit](https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2/tree/main/04-week/01-session/backend-structure) |
-| MVP-002 | Implementation of test endpoints (health-check / status) and database connection | done | [PR to develop](https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2/pull/1) |
-| MVP-003 | Configuration of the unit testing environment and first tests for the backend services | doing | [Initial tests commit](https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2/commit/abc123) |
+| MVP-001 | Setup of the base backend structure (hexagonal / layered architecture) | done |
+| MVP-002 | Implementation of test endpoints (health-check / status) and database connection | done |
+| MVP-003 | Configuration of the unit testing environment and first tests for the backend services | doing |
 
 ## 2. My individual contribution
 - I used ChatGPT to generate the initial project scaffolding (controllers, services, repositories, and DTOs), which allowed us to speed up the development environment setup.
@@ -31,9 +31,7 @@
 
 ## 4. Plan for next week
 - Implement the CRUD services for the main domain entities (Patient, Appointment, Doctor).
-- Increase unit test coverage and begin integration testing.
-- Set up the CI/CD pipeline (GitHub Actions) to automatically run tests on every PR.
-- Document the API with OpenAPI/Swagger as endpoints are developed.
+
 
 ## 5. Compliance self-check
 - [x] Conventional Commits - `type(scope): summary`
@@ -46,6 +44,5 @@
 > Note: Although we have already started testing, some items such as "acceptance criteria" or "hexagonal boundaries" will be refined as we develop more complex functionality.
 
 ## 6. Evidence links
-- Backend structure generated with ChatGPT: [https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2/tree/main/04-week/01-session/backend-structure](https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2/tree/main/04-week/01-session/backend-structure)
-- First PR with base endpoints and tests: [https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2/pull/1](https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2/pull/1)
-- Test configuration and examples: [Link to commit or test folder]
+- 
+- 
