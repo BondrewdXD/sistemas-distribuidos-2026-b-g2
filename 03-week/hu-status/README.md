@@ -1,6 +1,6 @@
 <!-- HU-STATUS TEMPLATE - do NOT remove the <!-- ... --> markers or the table headers.
      Your weekly grade is read AUTOMATICALLY from this file:
-       02-week/hu-status/README.md  (inside YOUR fork). English. -->
+       03-week/hu-status/README.md  (inside YOUR fork). English. -->
 
 # Weekly Status - Week 03
 
