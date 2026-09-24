@@ -64,4 +64,4 @@
 - Documentation repository: https://github.com/code-corhuila/telemed-ia-docs
 - Pull Request 1: [align documentation base for folders 00-08](https://github.com/code-corhuila/telemed-ia-docs/pull/33)
 - Pull Request 2: [documentation microservices 09](https://github.com/code-corhuila/telemed-ia-docs/pull/34)
-- Session 2 architectural documentation: 
+- Session 2 activity: [individual contribution to -docs: mature the API contract](https://github.com/code-corhuila/telemed-ia-docs/pull/36) 
