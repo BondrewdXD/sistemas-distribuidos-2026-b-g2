@@ -2,7 +2,7 @@
 - FULL_NAME: Jose Miguel Vera Garzon
 - GITHUB_USER: BondrewdXD
 - TEAM: Telemedicina
-- DOCS_REPO: https://github.com/code-corhuila/telemed-ia-docs
-- REFLECTION_DOC: https://docs.google.com/document/d/1aT7bRuvmG3-lt_axTRDa1lEhJU4YCjhDqk2-biltR6g/edit?usp=sharing
+- DOCS_REPO: https://github.com/BondrewdXD/sistemas-distribuidos-2026-b-g2.git
+- REFLECTION_DOC: https://docs.google.com/document/d/1uDuneM4OelgtpF2PVlrsjLnFYwe3EmnQis1ZG90fNUY/edit?usp=sharing
 - JOURNEY: Record medical attention (Consultation)
 <!-- CONFIG-END -->
