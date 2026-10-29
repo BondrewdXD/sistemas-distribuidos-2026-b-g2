@@ -1,27 +1,28 @@
-# Certification C3 — <Full name>
-
-> Template of the corte 3 certification. Replace every `<...>` with your data and delete this note. The rules are in the guide attached to the c3-certification activity in Moodle. Text left as `<...>` counts as missing.
+# Certification C3 - Jose Miguel Vera Garzón
 
 ## Cover
 
 | Field | Value |
 |---|---|
-| Full name | <Full name exactly as in Moodle> |
-| GitHub user | <github-user> |
-| Group | <G1 or G2> |
-| Team | <Team name> |
-| Team -docs repository | <https://github.com/code-corhuila/...-docs> |
-| Course | <Exact course name> |
-| Course link | <Course URL> |
-| Start date | <YYYY-MM-DD> |
-| Completion date | <YYYY-MM-DD> |
+| Full name | Jose Miguel Vera Garzón |
+| GitHub user | veraj |
+| Group | G2 |
+| Team | <Nombre de tu equipo (búscalo en tu carpeta docs)> |
+| Team -docs repository | <URL de tu repo docs, ej: https://github.com/code-corhuila/sistemas-distribuidos-2026-b-g2-docs> |
+| Course | HCCDP-Solution Architectures Course |
+| Course link | https://e.huawei.com/en/talent/ict-academy/#/ict-courses-detail?courseId=6WtKiPd1S1YelBB0AUbE1vXIPgk |
+| Start date | 2026-10-26 |
+| Completion date | 2026-11-15 |
 
 ## Study log
 
 | Date | Hours | Chapters or labs | Evidence file |
 |---|---|---|---|
-| <YYYY-MM-DD> | <h> | <Chapters or labs> | <evidence/NN-....png> |
-| Total | <sum> | | |
+| 2026-10-26 | 5 | Chapters 1-2 | evidence/02-chapter-02.png |
+| 2026-10-27 | 5 | Chapters 3-4 | evidence/04-chapter-04.png |
+| 2026-10-28 | 5 | Chapters 5-6 | evidence/06-chapter-06.png |
+| 2026-10-29 | 5 | Pre-class guidance and enrollment | evidence/00-enrollment.png |
+| Total | 20 | | |
 
 ## Labs
 
@@ -40,4 +41,9 @@
 
 ## Skills summary
 
-<5 to 7 lines in English, first person, naming at least three concrete design techniques from the course.>
+Here is my skills summary for the course.
+- First, I learned about architecture design methodology on Huawei Cloud.
+- Second, I can design distributed and highly scalable systems.
+- Third, I understand disaster recovery and automated deployment techniques.
+- Fourth, I applied the five principles of architecture design.
+- Finally, I learned how to use containers for agility.
