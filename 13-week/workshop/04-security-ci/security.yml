@@ -1,0 +1,24 @@
+name: Security CI Pipeline
+
+on:
+  pull_request:
+    branches: [ "main", "develop" ]
+
+jobs:
+  security-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Secret Scanning (gitleaks)
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Dependency Audit (npm)
+        run: npm audit --audit-level=high
+        continue-on-error: true
+
+      - name: Run Negative Authorization Test
+        run: npm test -- --grep "authz"
