@@ -4,11 +4,16 @@
 
 # Weekly Status - Week 13
 
-<!-- CONFIG-START - must match your profile repo (username/username) CONFIG -->
-- FULL_NAME:
-- GITHUB_USER:
-- TEAM:
-- SPRINT_GOAL:
+<!-- CONFIG-START -->
+- FULL_NAME: Jose Miguel Vera Garzón
+- GITHUB_USER: BondrewdXD
+- TEAM: telemed-ia
+- DOCS_REPO: https://github.com/code-corhuila/telemed-ia-docs
+- BOUNDARY: Backend to Database (Medical Records)
+- CLAIM_ISSUE: https://github.com/code-corhuila/telemed-ia-docs/issues/140
+- REFLECTION_DOC: https://docs.google.com/document/d/1wTtNLu71du6GacRwmZA9wM_knhsFT6JGNbNptCPunCU/edit?usp=sharing
+- LIBRARY_BOOK: 
+- LIBRARY_RECORD_TIME: 
 <!-- CONFIG-END -->
 
 ## 1. User stories worked this week
