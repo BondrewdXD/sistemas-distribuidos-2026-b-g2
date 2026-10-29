@@ -20,24 +20,29 @@
 ## 1. User stories worked this week
 | HU ID | Title | Status (todo/doing/done) | Evidence (PR or commit URL) |
 |---|---|---|---|
-| HU-XXX-001 |  |  |  |
+| N/A | Threat Modeling Workshop | done | See links below |
 
 ## 2. My individual contribution
--
+- Claimed and mapped trust boundary "Backend to Database (Medical Records)".
+- Created the STRIDE analysis PR for the Medical DB.
+- Created 3 security backlog issues for Spoofing, Tampering, and Info Disclosure.
+- Proposed CI security gates and a negative authorization test.
+- Reviewed a teammate's PR (Sofia) on the document-generation-api boundary.
 
 ## 3. Blockers and risks
--
+- Need to integrate the CI workflow into the real microservice repository, as the current test is a proposal using a mock Express app.
 
 ## 4. Plan for next week
--
+- Finish the implementation plan for the threat model.
+- Refine acceptance criteria for the 3 security issues.
 
 ## 5. Compliance self-check
-- [ ] Conventional Commits - `type(scope): summary`
-- [ ] Per-environment HU branch + PR to that environment (hu-xxx-dev -> develop, ...)
-- [ ] Testable acceptance criteria
-- [ ] Tests added/updated (unit / integration)
-- [ ] DDD / hexagonal boundaries respected (domain has no I/O)
-- [ ] No secrets; config via environment variables
+- [x] Conventional Commits - `type(scope): summary`
+- [x] Testable acceptance criteria
+- [x] Tests added/updated (unit / integration)
+- [x] No secrets; config via environment variables
 
 ## 6. Evidence links
--
+- PR STRIDE: [Threat model: Medical Service -> Medical DB](https://github.com/code-corhuila/telemed-ia-docs/pull/142)
+- Issues: #145, #146, #147
+- Review comment: [Comentario Sofia PR](https://github.com/code-corhuila/telemed-ia-docs/pull/144/changes#r4413160730)
