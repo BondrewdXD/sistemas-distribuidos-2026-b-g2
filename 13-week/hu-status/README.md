@@ -14,7 +14,7 @@
 - REFLECTION_DOC: https://docs.google.com/document/d/1wTtNLu71du6GacRwmZA9wM_knhsFT6JGNbNptCPunCU/edit?usp=sharing
 - LIBRARY_BOOK: Tanenbaum, A. S., & Van Steen, M. (2008). Sistemas distribuidos: principios y paradigmas (2da ed.). Pearson Educación. 005.4476 T15D EJ: 2
 - LIBRARY_RECORD_TIME: 08:05 AM
-- STORIES: https://github.com/code-corhuila/telemed-ia-docs/issues/145 https://github.com/code-corhuila/telemed-ia-docs/issues/146 https://github.com/code-corhuila/telemed-ia-docs/issues/147
+- STORIES: https://github.com/code-corhuila/telemed-ia-docs/issues/145 https://github.com/code-corhuila/telemed-ia-docs/issues/146 https://github.com/code-corhuila/telemed-ia-docs/issues/147 https://github.com/code-corhuila/telemed-ia-docs/pull/156
 <!-- CONFIG-END -->
 
 ## 1. User stories worked this week
@@ -23,18 +23,17 @@
 | N/A | Threat Modeling Workshop | done | See links below |
 
 ## 2. My individual contribution
-- Claimed and mapped trust boundary "Backend to Database (Medical Records)".
-- Created the STRIDE analysis PR for the Medical DB.
-- Created 3 security backlog issues for Spoofing, Tampering, and Info Disclosure.
+- Threat model and STRIDE analysis for Medical DB (PR #142, review addressed in PR #156).
+- Created 3 security backlog issues (#145, #146, #147).
 - Proposed CI security gates and a negative authorization test.
-- Reviewed a teammate's PR (Sofia) on the document-generation-api boundary.
+- Reviewed a teammate's PR (Sofia).
+- Completed the implementation plan in the reflection document.
 
 ## 3. Blockers and risks
-- Need to integrate the CI workflow into the real microservice repository, as the current test is a proposal using a mock Express app.
+- None. The CI pipeline proposal is ready for the team lead to integrate.
 
 ## 4. Plan for next week
-- Finish the implementation plan for the threat model.
-- Refine acceptance criteria for the 3 security issues.
+- Implement the security backlog issues (mTLS, checksums, encryption).
 
 ## 5. Compliance self-check
 - [x] Conventional Commits - `type(scope): summary`
@@ -43,6 +42,7 @@
 - [x] No secrets; config via environment variables
 
 ## 6. Evidence links
-- PR STRIDE: [Threat model: Medical Service -> Medical DB](https://github.com/code-corhuila/telemed-ia-docs/pull/142)
-- Issues: #145, #146, #147
-- Review comment: [Comentario Sofia PR](https://github.com/code-corhuila/telemed-ia-docs/pull/144/changes#r4413160730)
+- PR STRIDE (Original): https://github.com/code-corhuila/telemed-ia-docs/pull/142
+- PR STRIDE (Review Addressed): https://github.com/code-corhuila/telemed-ia-docs/pull/156
+- Issues: https://github.com/code-corhuila/telemed-ia-docs/issues/145, https://github.com/code-corhuila/telemed-ia-docs/issues/146, https://github.com/code-corhuila/telemed-ia-docs/issues/147
+- Review comment: https://github.com/code-corhuila/telemed-ia-docs/pull/144/changes#r4413160730
