@@ -1,4 +1,3 @@
-cat > 12-week/hu-status/README.md <<'EOF'
 <!-- HU-STATUS TEMPLATE - do NOT remove the <!-- ... --> markers or the table headers.
      Your weekly grade is read AUTOMATICALLY from this file:
        12-week/hu-status/README.md  (inside YOUR fork). English. -->
@@ -48,4 +47,3 @@ cat > 12-week/hu-status/README.md <<'EOF'
 - Appointment DB Constraints: https://github.com/code-corhuila/telemed-ia-appointment-scheduling-db
 - Consultation API RBAC: https://github.com/code-corhuila/telemed-ia-medical-consultation-api
 - Prometheus Config: https://github.com/code-corhuila/telemed-ia-infra-postgres
-EOF
