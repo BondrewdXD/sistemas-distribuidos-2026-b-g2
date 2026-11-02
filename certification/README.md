@@ -24,6 +24,7 @@
 | 2026-10-29 | 5 | Pre-class guidance and enrollment | evidence/00-enrollment.png |
 | 2026-10-30 | 3 | Chapter 7 | evidence/07-chapter-07.png |
 | 2026-10-31 | 3 | Chapter 8 | evidence/08-chapter-08.png |
+| 2026-11-02 | 3 | Chapter 9 | evidence/09-chapter-09.png |
 | Total | 20 | | |
 
 ## Labs
