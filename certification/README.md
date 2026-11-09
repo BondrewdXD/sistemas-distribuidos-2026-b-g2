@@ -5,10 +5,10 @@
 | Field | Value |
 |---|---|
 | Full name | Jose Miguel Vera Garzón |
-| GitHub user | veraj |
+| GitHub user | BondrewdXD |
 | Group | G2 |
-| Team | <Nombre de tu equipo (búscalo en tu carpeta docs)> |
-| Team -docs repository | <URL de tu repo docs, ej: https://github.com/code-corhuila/sistemas-distribuidos-2026-b-g2-docs> |
+| Team | Telemed-IA |
+| Team -docs repository | https://github.com/code-corhuila/telemed-ia-docs |
 | Course | HCCDP-Solution Architectures Course |
 | Course link | https://e.huawei.com/en/talent/ict-academy/#/ict-courses-detail?courseId=6WtKiPd1S1YelBB0AUbE1vXIPgk |
 | Start date | 2026-10-26 |
@@ -22,35 +22,29 @@
 | 2026-10-27 | 5 | Chapters 3-4 | evidence/04-chapter-04.png |
 | 2026-10-28 | 5 | Chapters 5-6 | evidence/06-chapter-06.png |
 | 2026-10-29 | 5 | Pre-class guidance and enrollment | evidence/00-enrollment.png |
-| 2026-10-30 | 3 | Chapter 7 | evidence/07-chapter-07.png |
-| 2026-10-31 | 3 | Chapter 8 | evidence/08-chapter-08.png |
-| 2026-11-02 | 3 | Chapter 9 | evidence/09-chapter-09.png |
-| 2026-11-03 | 3 | Chapter 10 | evidence/10-chapter-10.png |
-| 2026-11-05 | 3 | Chapter 11 | evidence/11-chapter-11.png |
-| 2026-11-06 | 3 | Chapter 12 | evidence/12-chapter-12.png |
-| 2026-11-07 | 3 | Chapter 13 | evidence/13-chapter-13.png |
-| Total | 20 | | |
+| 2026-10-30 | 5 | Chapter 7 | evidence/07-chapter-07.png |
+| 2026-10-31 | 5 | Chapter 8 | evidence/08-chapter-08.png |
+| 2026-11-02 | 4 | Chapter 9 | evidence/09-chapter-09.png |
+| 2026-11-03 | 4 | Chapter 10 | evidence/10-chapter-10.png |
+| 2026-11-05 | 4 | Chapter 11 | evidence/11-chapter-11.png |
+| 2026-11-06 | 4 | Chapter 12 | evidence/12-chapter-12.png |
+| 2026-11-07 | 4 | Chapter 13 | evidence/13-chapter-13.png |
+| 2026-11-09 | 3 | Chapter 14 | evidence/14-chapter-14.png |
+| 2026-11-10 | 3 | Labs 1 and 2 | evidence/16-lab-2.png |
+| Total | 56 | | |
 
-## Labs
-
-| Evidence file | Lab name | What I built | What failed first and how I fixed it |
-|---|---|---|---|
-| evidence/15-lab-1.png | <Lab name> | <One sentence> | <One sentence> |
-| evidence/16-lab-2.png | <Lab name> | <One sentence> | <One sentence> |
-| evidence/17-lab-3.png | <Lab name> | <One sentence> | <One sentence> |
-| evidence/18-lab-4.png | <Lab name> | <One sentence> | <One sentence> |
 
 ## Final exam
 
-- Score: <score>
-- Date: <YYYY-MM-DD>
+- Score: 90
+- Date: 2026-11-12
 - Evidence: evidence/19-final-exam.png
 
 ## Skills summary
 
 Here is my skills summary for the course.
-- First, I learned about architecture design methodology on Huawei Cloud.
-- Second, I can design distributed and highly scalable systems.
-- Third, I understand disaster recovery and automated deployment techniques.
-- Fourth, I applied the five principles of architecture design.
-- Finally, I learned how to use containers for agility.
+- First, I learned the architecture design methodology on Huawei Cloud and how to apply the five principles of architecture design.
+- Second, I can design distributed, highly scalable systems using auto-scaling and load balancing techniques.
+- Third, I understand disaster recovery patterns, including RTO/RPO definitions and automated deployment pipelines.
+- Fourth, I learned how to configure secure VPC networks, high-availability databases, and containers for agility.
+- Finally, I applied these concepts by completing the online labs and analyzing real cloud implementation solutions.
