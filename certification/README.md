@@ -36,7 +36,7 @@
 
 ## Final exam
 
-- Score: 90
+- Score: 77
 - Date: 2026-11-12
 - Evidence: evidence/19-final-exam.png
 
